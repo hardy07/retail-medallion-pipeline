@@ -143,7 +143,7 @@ with st.expander("ℹ️ About this pipeline"):
         and tracked end-to-end via **Unity Catalog lineage**.
 
         See the full write-up, architecture diagram, and pipeline screenshots on
-        [GitHub](https://github.com/<your-username>/retail-medallion-pipeline).
+        [GitHub](https://github.com/hardy07/retail-medallion-pipeline).
         """
     )
 
