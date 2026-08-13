@@ -2,7 +2,7 @@
 
 A production-style data pipeline that ingests raw retail order data and transforms it into analytics-ready tables using **Medallion Architecture** (Bronze → Silver → Gold) on **Databricks**, orchestrated as an automated job with built-in data quality checks and table lineage tracking.
 
-**[Live Dashboard →](#)** _(add Streamlit link once deployed)_
+**[Live Dashboard →](https://retailmedallionpipeline.streamlit.app/)**
 
 ![Pipeline Run](screenshots/job_run_dag.png)
 
