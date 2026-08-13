@@ -42,7 +42,7 @@ st.caption(
 
 st.markdown(
     "[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)]"
-    "(https://github.com/<your-username>/retail-medallion-pipeline)"
+    "(https://github.com/hardy07/retail-medallion-pipeline/)"
 )
 
 st.divider()
